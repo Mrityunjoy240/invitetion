@@ -13,7 +13,7 @@ export const wedding = {
     {
       id: "haldi",
       bn: "গায়ে হলুদ",
-      en: "Gaye Holud · Turmeric ceremony",
+      en: "Gaye Holud · Haldi Ceremony",
       time: "12:30 PM – 2:45 PM",
       start: "20261213T123000",
       end: "20261213T144500",
